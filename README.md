@@ -6,6 +6,7 @@
 **Sous structure POO**  
 
 ## Liste des fonctionnalités
+- Mise à jours automatique
 - Inscription externe
 - Accès Visiteurs
 - Espace Collaborateurs
