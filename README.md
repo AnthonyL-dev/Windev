@@ -27,7 +27,7 @@ Ce projet est conçu pour explorer et démontrer les capacités de Windev, en me
 
 ### Compte Employé
 - **Email :** `lorette.anthony.jrd@gmail.com`
-- **Mot de passe :** `123456`
+- **Mot de passe :** `1234567`
 
 ### Compte Visiteur
 Pour tester le compte "Visiteur", vous pouvez vous inscrire via OAuth avec Google ou en créant un compte avec le bouton **Inscrivez-vous**.
